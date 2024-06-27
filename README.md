@@ -1,4 +1,5 @@
 # TabPy-Doc-Script
+### To read about the script refer to the document 'TabPy Doc Script Document.docx' from the repository
 Step to run the py script: -
 - Download/Clone it from GitHub
 - Add your tableau file path in the ‘config.json’ file
